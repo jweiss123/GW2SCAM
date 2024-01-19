@@ -23,7 +23,7 @@ Snow Crows Adaptive Meta (SCAM) is a Discord bot designed for the MMO Guild Wars
 
 ![image](https://github.com/jweiss123/GW2SCAM/assets/142450649/0bf4a009-e91b-4ee6-ba93-fdc1b655a3c4)
 
-Click on the [invite](https://discord.com/oauth2/authorize?client_id=1197690282955784192&permissions=13189778504945&scope=bot) and allow all listed permissions. This version is currently active through a [self-hosted server](https://bot-hosting.net/) and may go offline at some point, but I may change this in the future. You are also welcome to host your own version of this bot with my code for personal use only. When starting the server, give the bot a few minutes to warm up and perform the initial search for the `/metaprofit` command.
+Simply click on the [invite](https://discord.com/oauth2/authorize?client_id=1197690282955784192&permissions=13189778504945&scope=bot) provided and allow all listed permissions. This version is currently active through a [self-hosted server](https://bot-hosting.net/) and may go offline at some point, but I may change this in the future. You are also welcome to host your own version of this bot with my code for personal use only. When starting the server, give the bot a few minutes to warm up and perform the initial search for the `/metaprofit` command.
 
 --------------------------------------------
 

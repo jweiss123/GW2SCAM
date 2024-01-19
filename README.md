@@ -9,7 +9,7 @@ Snow Crows Adaptive Meta (SCAM) is a Discord bot designed for the MMO Guild Wars
 
 ![image](https://github.com/jweiss123/GW2SCAM/assets/142450649/d96db4b1-ec38-46da-8304-57e18e8ed008)
 
-`/metaprofit` -- *Displays an aggregate list of items across all snowcrows build pages that are potentially "profitable" to craft and sell on the TP. Each item is listed as a hyperlink to its associated gw2efficiency crafting page followed by a rough estimate of the player's profit after listing the item. This list will update regularly once every hour or so.
+`/metaprofit` -- *Displays an aggregate list of items across all snowcrows build pages that are potentially "profitable" to craft and sell on the TP. Each item is listed as a hyperlink to its associated gw2efficiency crafting page followed by a rough estimate of the player's profit after listing the item. This list will update regularly once every hour or so.*
 
 `/gw2joke` -- *Picks a random AI-generated joke from GW2Jokes.txt to send to the user*
 

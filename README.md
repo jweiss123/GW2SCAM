@@ -7,7 +7,7 @@ Snow Crows Adaptive Meta Profit (SCAMP) is a Discord bot designed for the MMO Gu
 **This bot is not directly affiliated with Snow Crows.**
 
 --------------------------------------------
-### 1.1 🤖 DISCORD COMMANDS
+### 1.2 🤖 DISCORD COMMANDS
 
 ![image](https://github.com/jweiss123/GW2SCAMP/assets/142450649/d96db4b1-ec38-46da-8304-57e18e8ed008)
 

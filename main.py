@@ -307,7 +307,7 @@ async def AwakeStatus():
   print('Bot is still running...')
 
 
-@tasks.loop(hours=1)
+@tasks.loop(hours=6)
 async def ScheduledMetaProfit():
   global MetaProfitResults
   print('performing metaprofit analysis...')

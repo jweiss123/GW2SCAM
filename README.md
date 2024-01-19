@@ -4,6 +4,8 @@
 
 Snow Crows Adaptive Meta Profit (SCAMP) is a Discord bot designed for the MMO Guild Wars 2 (GW2) to identify gear and consumable items in each current character class build on [Snow Crows](https://snowcrows.com/builds/) that can be crafted and sold by the user for potential profit in the in-game Trading Post (TP). Please note that the sell prices listed from GW2SCAMP are calculated from [gw2tp](https://www.gw2tp.com/recipes) and may not exactly match the values listed on gw2efficiency. 
 
+**This bot is not directly affiliated with Snow Crows.**
+
 --------------------------------------------
 ### 1.1 🤖 DISCORD COMMANDS
 

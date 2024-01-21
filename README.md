@@ -1,7 +1,7 @@
 # Guild Wars 2 Snow Crows Adaptive Meta Profit (GW2SCAMP)
 
 **1/20/24 update:**
-The developers at snowcrows.com kindly requested I cease hosting the bot and take it down. This GitHub repo is only for educational and professional purposes only. Please do not use this code without permission from myself and the Snow Crows team. 
+The developers at snowcrows.com kindly requested I cease hosting the bot and take it down. This GitHub repo is currently for educational and professional purposes only. Please do not use this code without permission from myself and the Snow Crows team. 
 
 ### 1.1 📣 INTRODUCTION
 

@@ -27,8 +27,8 @@ Snow Crows Adaptive Meta Profit (SCAMP) is a Discord bot designed for the MMO Gu
 
 ~~Simply click on the [invite](https://google.com) provided and allow all listed permissions. This version is currently active through a [self-hosted server](https://bot-hosting.net/) and may go offline at some point, but I may change this in the future. You are also welcome to host your own version of this bot with my code for personal use only. When starting the server, give the bot a few minutes to warm up and perform the initial search for the `/metaprofit` command.~~
 
-1/20/24 update:
-The developers at snowcrows.com kindly requested I cease hosting the bot and take it down. This GitHub repo is only for educational and professional purposes only. Please do not use this code without permission from myself and the Snow Crows community. 
+**1/20/24 update:**
+The developers at snowcrows.com kindly requested I cease hosting the bot and take it down. This GitHub repo is only for educational and professional purposes only. Please do not use this code without permission from myself and the Snow Crows team. 
 
 --------------------------------------------
 
